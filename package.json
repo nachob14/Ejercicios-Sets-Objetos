@@ -1,0 +1,11 @@
+{
+  "name": "ejercicios-sets-objetos",
+  "version": "1.0.0",
+  "description": "Ejercicios sobre sets y objetos ",
+  "main": "conjuntos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Ignacio Bordon",
+  "license": "ISC"
+}
